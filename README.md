@@ -1,21 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evelyn
 ===========================================================================================================================
 
-Data Analyst | Python Enthusiast | Lifelong Learner
+Data Analyst | Chartered Accountant | Freelancer
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Evelyn, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+Hi! I’m Evelyn, an ACCA-qualified accountant with a recent transition into data analytics through a professional Data Technician course. Skilled in SQL, Python, Azure, Tableau, and Power BI, with a strong foundation in Excel-powered financial analysis and business intelligence. Known for attention to detail, analytical thinking, and delivering actionable insights. Combining financial expertise with modern data tools to support smarter, data-driven decisions.
 
 ## About Me 🎓 
 
 
--- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+I'm an ACCA-qualified accountant with a growing career in data analytics, combining financial expertise with hands-on skills in SQL, Python, Power BI, Tableau, and Azure. Alongside my technical development, I run my own business, Quota, where I partner with small and mid-sized companies to support growth through data-informed decision-making and financial insight. I specialize in contract-based work, bringing a flexible, collaborative mindset to every project. Whether it's streamlining operations, uncovering insights, or guiding strategic choices, I’m focused on delivering practical, measurable results. 
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
-🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+
 
 ## Projects
 
