@@ -1,11 +1,10 @@
-Hello, I’m Evelyn. I bridge the gap between finance and data to help businesses thrive smarter
+Hello, I’m Evelyn! I bridge the gap between finance and data to help businesses thrive smarter
 ===========================================================================================================================
 
 Data Analyst | Chartered Accountant | Freelancer
 ---------------------------------------------------
 
-
-Hi! I’m Evelyn, an ACCA-qualified accountant with a recent transition into data analytics through a professional Data Technician course. Skilled in PowerBI, Tableau, Azure, SQL, and Python, with a strong foundation in Excel-powered financial analysis and business intelligence. Known for attention to detail, analytical thinking, and delivering actionable insights. Combining financial expertise with modern data tools to support smarter, data-driven decisions.
+I’m an ACCA-qualified accountant with a recent transition into data analytics through a professional Data Technician course. Skilled in PowerBI, Tableau, Azure, SQL, and Python, with a strong foundation in Excel-powered financial analysis and business intelligence. Known for attention to detail, analytical thinking, and delivering actionable insights. Combining financial expertise with modern data tools to support smarter, data-driven decisions.
 
 ## About Me 🎓 
 
