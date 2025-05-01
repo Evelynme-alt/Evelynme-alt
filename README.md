@@ -10,7 +10,7 @@ Hi! I’m Evelyn, an ACCA-qualified accountant with a recent transition into dat
 ## About Me 🎓 
 
 
-I'm an ACCA-qualified accountant with a growing career in data analytics, combining financial expertise with hands-on skills in SQL, Python, Power BI, Tableau, and Azure. Alongside my technical development, I run my own business, Quota, where I partner with small and mid-sized companies to support growth through data-informed decision-making and financial insight. I specialize in contract-based work, bringing a flexible, collaborative mindset to every project. Whether it's streamlining operations, uncovering insights, or guiding strategic choices, I’m focused on delivering practical, measurable results. 
+I run my own business, Advent Admin And Accounts, where I partner with small and mid-sized companies to support growth through data-informed decision-making and financial insight. I specialize in contract-based work, bringing a flexible, collaborative mindset to every project. Whether it's streamlining operations, uncovering insights, or guiding strategic choices, I’m focused on delivering practical, measurable results. 
 
 
 
