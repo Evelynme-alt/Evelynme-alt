@@ -16,16 +16,6 @@ I'm an ACCA-qualified accountant with a growing career in data analytics, combin
 
 ## Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
-
-
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
 - **Project Name**: [Project Title](link-to-project)
@@ -37,11 +27,6 @@ I'm an ACCA-qualified accountant with a growing career in data analytics, combin
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
-
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
@@ -51,11 +36,6 @@ I'm an ACCA-qualified accountant with a growing career in data analytics, combin
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
-
-### DP900
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
 
 ### Excel Modelling
 - **Project Name**: [Project Title](link-to-project)
@@ -67,9 +47,9 @@ I'm an ACCA-qualified accountant with a growing career in data analytics, combin
 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+* ✉️  You can contact me at [email address](eve.amofah@gmail.com)
+* 🧠  I'm learning Excel Modelling
+* 🤝  I'm open to collaborating on data and finance projects that help businesses turn insights into impactful results
 
 ### Skills
 
