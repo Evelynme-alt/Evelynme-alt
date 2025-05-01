@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evelyn
+Hello, I’m Evelyn. I bridge the gap between finance and data to help businesses thrive smarter
 ===========================================================================================================================
 
 Data Analyst | Chartered Accountant | Freelancer
 ---------------------------------------------------
 
 
-Hi! I’m Evelyn, an ACCA-qualified accountant with a recent transition into data analytics through a professional Data Technician course. Skilled in SQL, Python, Azure, Tableau, and Power BI, with a strong foundation in Excel-powered financial analysis and business intelligence. Known for attention to detail, analytical thinking, and delivering actionable insights. Combining financial expertise with modern data tools to support smarter, data-driven decisions.
+Hi! I’m Evelyn, an ACCA-qualified accountant with a recent transition into data analytics through a professional Data Technician course. Skilled in PowerBI, Tableau, Azure, SQL, and Python, with a strong foundation in Excel-powered financial analysis and business intelligence. Known for attention to detail, analytical thinking, and delivering actionable insights. Combining financial expertise with modern data tools to support smarter, data-driven decisions.
 
 ## About Me 🎓 
 
@@ -64,15 +64,10 @@ I run my own business, Advent Admin And Accounts, where I partner with small and
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
-
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali06112023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
 https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
