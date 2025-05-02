@@ -14,41 +14,21 @@ I run my own business, Advent Admin And Accounts, where I partner with small and
 
 
 ## Projects
+- Check out my PowerBI projects [here](https://sites.google.com/view/evelynamofah/project-page/powerbi-projects)
+- Check out my Excel projects [here](https://sites.google.com/view/evelynamofah/project-page/excel-projects)
+- Check out my Python projects [here](https://sites.google.com/view/evelynamofah/project-page/python-projects)
+- Check out my Tableau projects [here](https://sites.google.com/view/evelynamofah/project-page/tableau-projects)
+- Check out my SQL projects [here](https://sites.google.com/view/evelynamofah/project-page/sql-projects)
 
 
-### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
-
-### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
-
-### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
-
-### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
-
-
-
-
-
+## More About Me
 * 🌍  I'm based in London
+* 👄  I speak Dutch
 * ✉️  You can contact me at [email address](eve.amofah@gmail.com)
-* 🧠  I'm learning Excel Modelling
+* 🧠  I'm a Excel pro!
 * 🤝  I'm open to collaborating on data and finance projects that help businesses turn insights into impactful results
+
+
 
 ### Skills
 
@@ -59,8 +39,7 @@ I run my own business, Advent Admin And Accounts, where I partner with small and
 
 </p>
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
-
+**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization
 ### Socials
 
 
